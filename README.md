@@ -12,21 +12,7 @@
 
 </div>
 
----
 
-## 💼 Professional Experience
-
-### 🔧 DevOps Intern | DevOps Insider
-**Oct 2024 - March 2025**
-
-- ⚡ Provisioned and managed cloud infrastructure using **Terraform** & **Azure Cloud**, enabling **15% faster** and scalable deployments
-- 🔄 Developed and optimized **CI/CD pipelines** across Build, Test, Review, and Deploy stages, streamlining the SDLC
-- 🐳 Containerized applications using **Docker** and orchestrated deployments with **Kubernetes**
-- ✅ Implemented automated testing and deployment strategies, boosting code quality and accelerating release cycles
-- 📊 Set up monitoring and alerting systems for production environments
-- 🤝 Collaborated with developers to troubleshoot integration issues and maintain stable deployment environments
-
----
 
 ## 🛠️ Tech Stack & Tools
 
@@ -68,29 +54,9 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏗️ 3-Tier Web Application Deployment on Azure
-**Tech Stack:** Azure | Terraform | CI/CD | Load Balancer | VNet | NSG
 
-- 🏛️ Designed and deployed a **3-tier architecture** (Web, App, DB) using **Terraform (IaC)** in Microsoft Azure
-- 🔒 Created a secure landing zone with **Load Balancers**, **Virtual Networks**, **Subnets**, and **Network Security Groups**
-- 🔄 Developed automated **CI/CD pipelines** for PROD, QA, and DEV environments
-- 📊 **Reduced manual deployment effort by 40%** and achieved **99% deployment reliability**
-- 📦 Enabled infrastructure versioning and repeatable environment provisioning using modular Terraform scripts
-- 🔐 Implemented security best practices with NSGs, private endpoints, and Azure Key Vault integration
 
-### 📡 Telecom Billing System (Microservices Architecture)
-**Tech Stack:** Azure | Terraform | Docker | GitHub Actions | Azure App Services
-
-- 🔧 Built and managed **CI/CD pipelines** using **GitHub Actions** for microservices automation
-- ☁️ Used **Terraform** to provision and manage Azure infrastructure for scalable cloud environments
-- 🐳 Containerized microservices using **Docker** for consistent deployment across environments
-- 🚀 Deployed services to **Azure App Services** with environment-specific configurations
-- ⚡ Reduced deployment time by **50%** and improved release reliability through version control best practices
-- 🔄 Implemented automated rollout strategies with blue-green deployments for zero-downtime updates
-
----
 
 ## 📊 GitHub Stats
 
@@ -114,15 +80,6 @@
 </div>
 
 ---
-
-## 🎓 Education
-
-**🎓 I.B.(PG) College, Panipat, Haryana**  
-Bachelor in Computer Application (Information Technology)  
-📅 July 2023 – July 2026
-
----
-
 ## 🌱 Currently Learning
 
 - 🐳 **Advanced Kubernetes** - CKA/CKAD Certification Path
