@@ -1,123 +1,114 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Dhruv%20Rohilla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Dhruv Rohilla — DevOps Engineer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1f2937&height=180&section=header&text=Dhruv%20Rohilla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Dhruv Rohilla" width="900"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+Enthusiast;Infrastructure+as+Code+Advocate" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB000&center=true&vCenter=true&width=720&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+Enthusiast;Infrastructure+as+Code+Advocate" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="24"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="24"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="22"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="22"/>
 </p>
 
 ---
 
-DevOps engineer focused on building reliable cloud infrastructure, automating delivery
-pipelines, and making deployments safer, faster, and repeatable.
+I build reliable cloud systems, automate delivery pipelines, and turn operational pain into clean infrastructure workflows.
 
-I enjoy turning manual processes into documented, observable automation — from
-Infrastructure as Code and CI/CD pipelines to containerized applications and Kubernetes
-workloads.
+I work across Azure, Kubernetes, Docker, Terraform, GitHub Actions, and Linux to make deployments faster, safer, and easier to maintain.
 
 ---
 
 ### What I work on
 
 **Cloud infrastructure.**  
-Designing and managing Azure environments with a focus on reliability, security,
-scalability, and sensible operational practices.
+Designing resilient Azure environments with a focus on scalability, security, and maintainability.
 
 **Infrastructure as Code.**  
-Using Terraform to provision repeatable infrastructure instead of relying on manual
-configuration and clicking through cloud dashboards.
+Using Terraform and repeatable configuration patterns to replace fragile manual setup with clean, versioned automation.
 
 **CI/CD automation.**  
-Building GitHub Actions workflows that validate code, run tests, build artifacts,
-and deploy applications with clear, predictable steps.
+Building GitHub Actions pipelines that validate code, deploy consistently, and reduce human error in release processes.
 
 **Containers and orchestration.**  
-Working with Docker, Kubernetes, and Helm to package, deploy, scale, and operate
-applications consistently across environments.
+Deploying containerized applications with Docker and Kubernetes while improving runtime reliability and operational control.
 
 **Monitoring and observability.**  
-Learning and applying Prometheus, Grafana, and related tooling to make system health,
-performance, and failures easier to understand.
+Improving visibility with metrics, logs, and alerting so issues are identified early and solved quickly.
 
-**Scripting and tooling.**  
-Using Python, Bash, and PowerShell to automate repetitive tasks, improve developer
-workflows, and simplify operational work.
+**Scripts and tooling.**  
+Using Python, Bash, and PowerShell to automate routine work and streamline DevOps operations.
 
 ---
 
-### Currently learning
+### Selected projects
 
-- Kubernetes administration and production-ready workload patterns
-- Helm chart development and release management
-- GitOps workflows with Argo CD
-- Monitoring and alerting with Prometheus and Grafana
-- Advanced Terraform modules and cloud architecture
-- Python automation for DevOps and platform engineering
+**Cloud automation**  
+Reusable infrastructure patterns for provisioning and managing environments with Terraform and Azure-native tooling.
 
----
+**Kubernetes learning lab**  
+Hands-on experimentation with cluster setups, workloads, networking, and deployment workflows.
 
-### Tools I use
+**CI/CD workflows**  
+Automated pipelines for build, test, validation, and deployment using GitHub Actions and Linux-based runners.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,kubernetes,docker,terraform,githubactions,linux,bash,powershell,python,git,postgres,mongodb,postman,vscode" alt="DevOps and development tools"/>
-</p>
+**Infra monitoring setup**  
+Monitoring and alerting practices that help teams understand system health and respond faster to incidents.
+
+**Containerized app delivery**  
+Packaging, deploying, and managing workloads with Docker and Kubernetes for repeatable releases.
 
 ---
 
 ### Notes on how I work
 
-- Automate repetitive work before it becomes operational debt.
-- Prefer Infrastructure as Code over undocumented manual changes.
-- Keep deployment pipelines clear, observable, and easy to troubleshoot.
-- Treat documentation as part of the implementation, not an afterthought.
-- Learn by building practical projects and improving them iteratively.
-- Focus on reliability, security, and maintainability — not just getting things to run.
+- I automate repetitive work before it becomes operational debt.
+- I prefer Infrastructure as Code over manual, error-prone configuration.
+- I keep pipelines transparent, testable, and easy to troubleshoot.
+- I treat documentation and deployment reliability as part of the system itself.
+- I learn by building practical infrastructure and improving it iteratively.
 
 ---
 
-### 📊 Activity
+### Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DhruvRohillacoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dhruv's GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRohillacoder&layout=compact&theme=tokyonight&hide_border=true" alt="Dhruv's most used languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DhruvRohillacoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRohillacoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img width="760" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRohillacoder&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub contribution streak"/>
+  <img width="760" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRohillacoder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvRohillacoder&theme=tokyo-night&hide_border=true&area=true" alt="Dhruv's GitHub activity graph" width="95%"/>
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvRohillacoder&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 </p>
 
 ---
 
 ### Elsewhere
 
+Reachable through GitHub, LinkedIn, or email for DevOps opportunities, automation projects, and cloud/infrastructure collaboration.
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhruv-rohilla-03261a284/">
+  <a href="https://www.linkedin.com/in/dhruv-rohilla-03261a284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dhruvrohilla9350@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/DhruvRohillacoder">
+  <a href="https://github.com/DhruvRohillacoder" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-Reachable through GitHub, LinkedIn, or email for DevOps projects, collaboration,
-freelance opportunities, and technical discussions.
-
 ---
 
-<sub>Building reliable systems, one automated deployment at a time. 🚀</sub>
+<sub>Built for automation, infrastructure, and reliable delivery. 🚀</sub>
