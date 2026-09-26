@@ -1,115 +1,171 @@
 <div align="center">
 
-# Hi 👋, I'm Dhruv Rohilla
+# Hi, I'm Dhruv Rohilla 👋
 
-### 🚀 A Curious DevOps Engineer & Full-Stack Developer
+### DevOps Engineer · Cloud Infrastructure · Automation · CI/CD
 
-![Profile Views](https://komarev.com/ghpvc/?username=DhruvRohillacoder&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/DhruvRohillacoder?label=Followers&style=social)](https://github.com/DhruvRohillacoder)
+<p>
+  <a href="https://github.com/DhruvRohillacoder">
+    <img src="https://komarev.com/ghpvc/?username=DhruvRohillacoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/DhruvRohillacoder?tab=followers">
+    <img src="https://img.shields.io/github/followers/DhruvRohillacoder?label=Followers&style=flat&color=236ad3" alt="GitHub followers"/>
+  </a>
+  <a href="mailto:dhruvrohilla9350@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-- 🎯 I'm currently learning **Kubernetes, Helm Charts, ArgoCD, Prometheus, Grafana, ONIT, Terraform, Python, Docker, PowerShell**
-- 💬 Ask me about **Azure, Terraform, GitHub Actions, Deployment, Infrastructure as Code, Kubernetes**
-- 📫 How to reach me: **[dhruvrohilla9350@gmail.com](mailto:dhruvrohilla9350@gmail.com)**
-- 🎮 Hobbies: **Playing Chess, Traveling, Singing**
-- 📦 Open to: **Work on Freelancing Projects, Discussions, Invest my time**
-- ⚡ Fun fact: **I love coding, gaming, and exploring new tech trends**
+I am a DevOps engineer focused on cloud infrastructure, automation, and reliable software delivery. I enjoy turning manual processes into repeatable workflows using Infrastructure as Code, CI/CD, containers, and scripting.
+
+My goal is simple: **build systems that are secure, observable, maintainable, and easy to deploy.**
+
+- 🔧 Building and improving CI/CD pipelines
+- ☁️ Working with Microsoft Azure and cloud infrastructure
+- 🏗️ Managing infrastructure with Terraform
+- 📦 Containerizing applications with Docker
+- ☸️ Learning and building with Kubernetes and Helm
+- 🔄 Exploring GitOps with Argo CD
+- 📊 Learning monitoring with Prometheus and Grafana
+- 🐍 Automating operational tasks with Python, Bash, and PowerShell
 
 ---
 
-## 🛠️ Languages and Tools
+## What I do
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+### Cloud & infrastructure
+
+I work with cloud resources, infrastructure configuration, networking concepts, and deployment environments with an emphasis on reliability and repeatability.
+
+### Infrastructure as Code
+
+I use Terraform to define infrastructure in version-controlled code, reduce configuration drift, and make environments easier to reproduce.
+
+### CI/CD
+
+I design automation workflows that can build, validate, test, package, and deploy applications consistently using GitHub Actions and related tools.
+
+### Containers & orchestration
+
+I use Docker to package applications and Kubernetes to understand how modern workloads are deployed, scaled, and operated.
+
+### Automation & scripting
+
+I use Python, Bash, and PowerShell to remove repetitive work, improve developer workflows, and make operational tasks easier to execute.
+
+### Observability
+
+I am developing my skills in monitoring, metrics, dashboards, and alerting with tools such as Prometheus and Grafana.
+
+---
+
+## Technology stack
+
+### DevOps & cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions,linux,git,bash,powershell,python" alt="DevOps technology stack"/>
+</p>
+
+### Development & databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,postgres,mongodb,postman,vscode" alt="Development technology stack"/>
+</p>
+
+### Core tools
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Infrastructure as Code"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GitOps-Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white" alt="Argo CD"/>
 </p>
 
 ---
 
-## 🖥️ Operating Systems
+## Currently learning
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+- Kubernetes administration and production-ready workloads
+- Helm chart design and release management
+- GitOps deployment workflows with Argo CD
+- Prometheus metrics and Grafana dashboards
+- Advanced Terraform modules and reusable infrastructure patterns
+- Cloud security, networking, and cost-aware architecture
+- Python automation for DevOps and platform engineering
 
 ---
 
-## 📊 GitHub Stats
+## DevOps principles
+
+- **Automate repeatable work.** Manual steps should become scripts or pipelines.
+- **Version infrastructure.** Infrastructure changes should be reviewable and reversible.
+- **Keep deployments predictable.** Every environment should have a clear delivery path.
+- **Design for observability.** If a system cannot be understood, it cannot be operated well.
+- **Document the workflow.** Good documentation makes automation easier to use and maintain.
+- **Improve continuously.** Small, measurable improvements compound over time.
+
+> “You build it, you run it, you automate it.” 🚀
+
+---
+
+## GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRohillacoder&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<a href="https://github.com/DhruvRohillacoder">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DhruvRohillacoder&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Dhruv's GitHub statistics"/>
+</a>
+<a href="https://github.com/DhruvRohillacoder">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRohillacoder&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Dhruv's top languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/DhruvRohillacoder">
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvRohillacoder&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub contribution streak"/>
+</a>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## Let's connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRohillacoder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="760"/>
-</p>
-
----
-
-## 🤝 Connect with Me on LinkedIn 👇
+I am open to DevOps discussions, cloud projects, automation ideas, collaboration, and freelance opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-rohilla-03261a284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
   <a href="mailto:dhruvrohilla9350@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Message%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
   </a>
   <a href="https://github.com/DhruvRohillacoder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
   </a>
 </p>
 
 ---
 
-## 💭 DevOps Philosophy
-
 <div align="center">
 
-**"You build it, you run it, you automate it!"** 🚀
+### Thanks for visiting my profile!
 
-*"The best DevOps engineers are the ones who automate themselves out of repetitive work."*
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ From [DhruvRohilla](https://github.com/DhruvRohillacoder)
-
-**"Infrastructure as Code: Because clicking buttons is so 2010!"** 🚀
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+Engineer;Infrastructure+as+Code+Expert)](https://github.com/DhruvRohillacoder)
+**Building reliable infrastructure and automating better deployments — one improvement at a time.** 🚀
 
 </div>
