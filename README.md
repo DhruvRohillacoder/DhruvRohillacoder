@@ -68,7 +68,9 @@
 
 ## 📈 Activity Graph
 
-[![Dhruv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DhruvRohillacoder&theme=react-dark&hide_border=true)](https://github.com/DhruvRohillacoder)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvRohillacoder&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="760"/>
+</p>
 
 ---
 
