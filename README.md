@@ -2,10 +2,14 @@
 
 # Dhruv Rohilla
 
-### DevOps learner building practical Azure infrastructure, CI/CD workflows, and containerized applications
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=DevOps+Learner;Microsoft+Azure+Cloud+Enthusiast;CI%2FCD+Automation;Cloud+%26+AI+Integration;Linux+and+Python" alt="Animated typing headline: DevOps learner, Azure cloud enthusiast, CI/CD automation, cloud and AI integration, Linux and Python" />
+</a>
+
+<p>Building practical cloud infrastructure, delivery workflows, and containerized applications while growing toward junior DevOps and cloud engineering roles.</p>
 
 <a href="https://github.com/DhruvRohillacoder">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:326CE5,100:7B42BC&height=120&section=header&text=Build%20%7C%20Automate%20%7C%20Improve&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Build, automate, improve" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1464A0,100:6E40C9&height=120&section=header&text=Build%20%7C%20Automate%20%7C%20Improve&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated blue and purple Build Automate Improve banner" />
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=DhruvRohillacoder"><img src="https://komarev.com/ghpvc/?username=DhruvRohillacoder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
@@ -16,75 +20,116 @@
 
 ## About me
 
-I am Dhruv, a DevOps learner focused on building practical skills in Microsoft Azure, infrastructure as code, CI/CD automation, Linux, and containerized applications. My projects are learning-focused and hands-on: I use them to understand how infrastructure is structured, how delivery workflows are automated, and how technical problems can be investigated and documented clearly.
+I am Dhruv, a DevOps learner focused on practical work with Microsoft Azure, infrastructure as code, CI/CD automation, Linux, Python, and containerized applications. I learn by building small systems, validating changes, troubleshooting failures, and documenting what is implemented versus planned.
 
-My current direction is toward junior DevOps, cloud, and platform engineering roles. I am building the habits that support reliable engineering: small repeatable changes, automated validation, troubleshooting, and useful documentation.
+My direction is toward junior DevOps, cloud, and platform engineering roles. I am developing production-oriented habits without claiming professional experience or deployment outcomes that are not represented in my projects.
 
-## Tech stack
+## Technical stack
 
-| Area | Tools I use or am actively learning |
-| --- | --- |
-| Cloud & infrastructure | Microsoft Azure, Azure CLI, Terraform, Azure networking fundamentals |
-| CI/CD & DevOps | Azure DevOps Pipelines, Git, Azure Repos, infrastructure validation |
-| Programming & scripting | Python, Bash, JavaScript, TypeScript |
-| AI & cloud applications | Microsoft Azure AI Foundry, model integration experiments, troubleshooting workflows |
-| Containers & web | Docker, Nginx, React, Vite |
-| Operating systems & tools | Ubuntu/Linux, GitHub, Markdown, VS Code |
+### Azure and cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,terraform" alt="Microsoft Azure and Terraform icons" />
+</p>
+
+### DevOps and CI/CD
+
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,docker,kubernetes,git" alt="GitHub Actions, Docker, Kubernetes, and Git icons" />
+  <br />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D7?style=flat&logo=azuredevops&logoColor=white" alt="Azure DevOps CI/CD" />
+  <img src="https://img.shields.io/badge/Azure%20CLI-Cloud%20automation-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure CLI cloud automation" />
+</p>
+
+### Linux, shell, and automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python" alt="Linux, Bash, and Python icons" />
+</p>
+
+### AI and cloud applications
+
+<p>
+  <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-Learning%20lab-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Azure AI Foundry learning lab" />
+  <img src="https://img.shields.io/badge/Python-Testing%20and%20troubleshooting-3776AB?style=flat&logo=python&logoColor=white" alt="Python testing and troubleshooting" />
+</p>
+
+### Developer tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vite,nginx" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, and Nginx icons" />
+</p>
 
 ## Featured projects
 
 ### [Terraform Azure Infrastructure VM](https://github.com/DhruvRohillacoder/Terraform_Azure_Infra_VM)
 
-A modular Terraform project for learning Azure infrastructure provisioning around resource groups, virtual networks, subnets, public IPs, and related VM networking components.
+Modular Terraform practice for Azure resource groups, virtual networks, subnets, public IPs, and VM-related networking components.
 
-- **Demonstrates:** HCL, AzureRM, reusable modules, environment-based layout, and remote-state configuration.
-- **Delivery workflow:** An Azure DevOps pipeline includes Terraform installation, initialization, validation, and plan stages for `ENV/DEV`.
-- **Engineering focus:** Turning infrastructure into version-controlled, reviewable code and separating reusable modules from environment configuration.
+`HCL` `AzureRM` `Terraform` `Azure DevOps`
+
+- Reusable modules are separated from the `ENV/DEV` environment configuration.
+- The Azure DevOps pipeline represents Terraform installation, initialization, validation, and plan stages.
+- The project demonstrates reviewable, version-controlled infrastructure rather than a claimed production deployment.
 
 ### [Docker Learn](https://github.com/DhruvRohillacoder/DOCKER_LEARN)
 
-A hands-on Docker learning repository containing a React Todo application served through Nginx.
+A hands-on Docker repository containing a React Todo application served through Nginx.
 
-- **Demonstrates:** Docker image creation, frontend containerization, Nginx static hosting, and SPA routing considerations.
-- **Engineering focus:** Moving a web application from local development into a repeatable container workflow.
-- **Documentation:** The repository README includes project structure, prerequisites, build/run commands, and troubleshooting-oriented Docker commands.
+`Docker` `React` `Nginx` `Node.js`
+
+- Covers image creation, frontend containerization, Nginx static hosting, and SPA routing considerations.
+- Includes build/run instructions and Docker troubleshooting commands in the repository documentation.
 
 ### [Azure E-Commerce DevOps Platform](https://github.com/DhruvRohillacoder/Azure-E-Commerce-DevOps-Platform)
 
-A portfolio design project that documents a target Azure delivery platform for a containerized e-commerce application.
+A portfolio design project for learning how an Azure-based container platform could connect infrastructure, CI/CD, security, and observability.
 
-- **Planned architecture:** Terraform, Docker, AKS, ACR, PostgreSQL, Key Vault, Azure DevOps, and monitoring services.
-- **Current evidence:** The repository README clearly labels the work as an early Terraform foundation and distinguishes planned architecture from implemented infrastructure.
-- **Engineering focus:** Learning how CI/CD, infrastructure, security, observability, and Kubernetes deployment fit together without overstating deployment status.
+`Terraform` `Azure` `Docker` `AKS` `ACR` `PostgreSQL` `Key Vault`
+
+- The repository README explicitly separates the planned architecture from its current early Terraform foundation.
+- The project is useful for studying end-to-end platform design without presenting the target architecture as already deployed.
 
 ### [AzureDevops Terraform](https://github.com/DhruvRohillacoder/AzureDevops_Terraform)
 
-An early Terraform exploration repository focused on defining Azure resources and understanding how Azure DevOps can support infrastructure workflows.
+An earlier Terraform exploration focused on Azure resources and the relationship between infrastructure code and Azure DevOps workflows.
+
+`Terraform` `Azure DevOps` `HCL`
 
 ## Current learning focus
 
-- Building stronger Terraform modules and Azure infrastructure foundations
-- Improving Azure DevOps pipeline validation and deployment workflows
-- Practicing Docker and Kubernetes concepts through small, testable projects
-- Exploring Azure AI Foundry and Python-based cloud application troubleshooting
-- Writing clearer READMEs that explain current state, setup, and next steps
+- Strengthening Terraform modules and Azure infrastructure foundations
+- Improving Azure DevOps validation and delivery workflows
+- Practicing Docker and Kubernetes through small, testable projects
+- Exploring Azure AI Foundry with Python-based troubleshooting and unit tests
+- Writing concise documentation that records current state, setup, and next steps
 
-## Engineering practices
+## Engineering practices I am building
 
 - **Automated validation:** Terraform `init`, `validate`, and `plan` are represented in the Azure infrastructure pipeline.
-- **Troubleshooting:** Python unit-testing and debugging are part of my reported Azure AI Foundry learning lab.
-- **Documentation:** Project READMEs describe architecture, prerequisites, workflows, and known implementation boundaries.
-- **Incremental delivery:** I prefer learning through small repositories and progressively more complete automation.
+- **Testing and troubleshooting:** My reported Azure AI Foundry lab includes a Python troubleshooting function with five passing tests.
+- **Documentation:** Project READMEs describe architecture, prerequisites, workflows, and implementation boundaries.
+- **Honest scope:** Planned services and learning goals are labeled separately from verified repository implementation.
 
 ## GitHub activity
 
 <div align="center">
 
 <a href="https://github.com/DhruvRohillacoder">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DhruvRohillacoder&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Dhruv's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DhruvRohillacoder&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub statistics for Dhruv Rohilla; values depend on the stats service data source" />
+</a>
+<a href="https://github.com/DhruvRohillacoder">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvRohillacoder&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top programming languages reported by the GitHub stats service" />
 </a>
 
+<br />
+
+<!-- Generated by .github/workflows/snake.yml after its first successful run. -->
+<img src="https://raw.githubusercontent.com/DhruvRohillacoder/DhruvRohillacoder/github-contribution-grid-snake/github-contribution-grid-snake.svg" alt="Animated contribution snake; generated by GitHub Actions when the snake workflow has run" />
+
 </div>
+
+> **Contribution visual note:** Statistics and language charts are estimates from external services. The snake image is generated by this repository's GitHub Actions workflow after it runs successfully.
 
 ## Connect
 
